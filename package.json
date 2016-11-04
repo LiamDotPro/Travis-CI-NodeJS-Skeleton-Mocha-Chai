@@ -7,7 +7,7 @@
     "name": "li"
   },
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha"
+    "test": "mocha"
   },
   "dependencies": {
     "chai": "^3.5.0"
