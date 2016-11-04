@@ -1,0 +1,16 @@
+{
+  "name": "skeletonapp",
+  "version": "0.0.0",
+  "description": "skeletonapp",
+  "main": "index.js",
+  "author": {
+    "name": "li"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
