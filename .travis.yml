@@ -2,8 +2,4 @@
 node_js:
   - "stable"
 
-before_script: 
- - chmod 0777 ./node_modules/.bin/mocha
- - npm install -g mocha
- - npm install -g chai
- - npm start
+before_script: chmod 0777 ./node_modules/.bin/mocha
