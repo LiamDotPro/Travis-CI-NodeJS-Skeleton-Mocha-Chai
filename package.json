@@ -12,7 +12,7 @@
     "url": "https://github.com/LiamDotPro/Travis-CI-NodeJS-Skeleton-Mocha-Chai.git"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "npm test"
   },
   "dependencies": {
     "chai": "^3.5.0"
